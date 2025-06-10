@@ -7,6 +7,13 @@ Currently, I’m diving deep into data analytics and visualization using Tableau
 
 ---
 
+## 📁 Portfolio
+
+Explore my full set of data analysis projects on GitHub:  
+🔗 [antpalom2/data_analysis_tripleten](https://github.com/antpalom2/data_analysis_tripleten)
+
+---
+
 ## 📫 Contact
 You can reach me right here on GitHub or via LinkedIn (linked in my profile). I’m open to freelance work, creative collaborations, or just connecting with curious people.
 
